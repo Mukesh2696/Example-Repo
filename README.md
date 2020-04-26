@@ -1,2 +1,2 @@
 # Example Repository
-This is Examlpe Repo, Hello World!
+This is Examlpe Repo, Hello Coders!
